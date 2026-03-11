@@ -1,0 +1,35 @@
+body{
+font-family:Cambria;
+margin:0;
+}
+
+.login-body{
+background:#0b2e59;
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.login-box{
+background:white;
+padding:40px;
+border-radius:8px;
+width:300px;
+text-align:center;
+box-shadow:0 3px 10px rgba(0,0,0,0.3);
+}
+
+input{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button{
+background:#0b2e59;
+color:white;
+border:none;
+padding:10px 20px;
+cursor:pointer;
+}
